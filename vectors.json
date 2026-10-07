@@ -1,0 +1,57 @@
+{
+  "hash_vectors": [
+    {
+      "input": "",
+      "deepseek_hash_v1": "e594808bc5b7151ac160c6d39a02e0a8e261ed588578403099e3561dc40c26b3",
+      "input_len_utf8": 0
+    },
+    {
+      "input": "abc",
+      "deepseek_hash_v1": "f841106c601ce9be9bc38525e90d4178d47f21dd8eb9f238fc55ffaa4ca94506",
+      "input_len_utf8": 3
+    },
+    {
+      "input": "0",
+      "deepseek_hash_v1": "5f6176ce62563cb9559e52639ff73c0bd001bc731e6d1b9e9c2776bbb802b7a0",
+      "input_len_utf8": 1
+    },
+    {
+      "input": "1",
+      "deepseek_hash_v1": "216f72d0512d0d4aa469d7c5949c24bf0dfaca93d83d9c82876a697c27befcb3",
+      "input_len_utf8": 1
+    },
+    {
+      "input": "144000",
+      "deepseek_hash_v1": "cd26d9b7c274c22fc04b5e6a40bf90747648a386e4fa2ea5200f7fd480098264",
+      "input_len_utf8": 6
+    },
+    {
+      "input": "3bde54628ea8413fee87_1775380966945_",
+      "deepseek_hash_v1": "21192eea6133041fcb3f8c4828881052abfe02a90b2193f81a63f09f77abb833",
+      "input_len_utf8": 35
+    },
+    {
+      "input": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "deepseek_hash_v1": "073ce860c76475752f5eb52b6fee4c29893141d183e60134713c54e8647ad4d1",
+      "input_len_utf8": 200
+    },
+    {
+      "input": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "deepseek_hash_v1": "9c8a9eefd990d3073104fa5a3dd2d090681086778caccfa5b9af53b859752a99",
+      "input_len_utf8": 136
+    },
+    {
+      "input": "yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy",
+      "deepseek_hash_v1": "cfdc4d66c8c7d30780413becbc233ae30772278e6d2bcf85d661a2c433ad3ce9",
+      "input_len_utf8": 137
+    }
+  ],
+  "solve_vector": {
+    "challenge": "7ffc9d19b6eed96a6fca68f8ffe30ee61035d4959e4180f187bf85b356016a96",
+    "salt": "3bde54628ea8413fee87",
+    "expire_at": 1775380966945,
+    "difficulty": 144000,
+    "status": 1,
+    "answer": 107544
+  }
+}
